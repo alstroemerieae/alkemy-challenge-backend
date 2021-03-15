@@ -1,5 +1,10 @@
 # Alkemy Challenge (Backend)
-
+```
+  HOST: "localhost"
+  USER: "postgres"
+  PASSWORD: "123"
+  DB: "testdb"
+```
 ## Technologies
 
 - Node.js
@@ -9,6 +14,7 @@
 
 ## Requirements
 - [Node](https://nodejs.org/en/download/)
+- [PostgreSQL](https://www.postgresql.org/download/)
 
 ## Install
 
